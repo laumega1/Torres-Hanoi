@@ -56,6 +56,7 @@ namespace Torres_de_Hanoi
                     mover_disco(ini, aux);
                     m++;
                     mover_disco(aux, fin);
+                    Console.WriteLine(fin.NumeroDiscos);
                 }
             }
             else

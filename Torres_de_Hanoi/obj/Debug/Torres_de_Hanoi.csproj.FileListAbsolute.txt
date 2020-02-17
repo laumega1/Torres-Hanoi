@@ -4,3 +4,9 @@ C:\Users\Laura\Desktop\Universitat\2carrera\2cuatri\Algorítmica y matematicas\p
 C:\Users\Laura\Desktop\Universitat\2carrera\2cuatri\Algorítmica y matematicas\practicas\torres hanoi\torres-de-hanoi-master\Torres_de_Hanoi\obj\Debug\Torres_de_Hanoi.csprojAssemblyReference.cache
 C:\Users\Laura\Desktop\Universitat\2carrera\2cuatri\Algorítmica y matematicas\practicas\torres hanoi\torres-de-hanoi-master\Torres_de_Hanoi\obj\Debug\Torres_de_Hanoi.exe
 C:\Users\Laura\Desktop\Universitat\2carrera\2cuatri\Algorítmica y matematicas\practicas\torres hanoi\torres-de-hanoi-master\Torres_de_Hanoi\obj\Debug\Torres_de_Hanoi.pdb
+C:\Users\Laura\Desktop\Universitat\2carrera\2cuatri\Algorítmica y matematicas\practicas\torres\Torres_de_Hanoi\bin\Debug\Torres_de_Hanoi.exe.config
+C:\Users\Laura\Desktop\Universitat\2carrera\2cuatri\Algorítmica y matematicas\practicas\torres\Torres_de_Hanoi\bin\Debug\Torres_de_Hanoi.exe
+C:\Users\Laura\Desktop\Universitat\2carrera\2cuatri\Algorítmica y matematicas\practicas\torres\Torres_de_Hanoi\bin\Debug\Torres_de_Hanoi.pdb
+C:\Users\Laura\Desktop\Universitat\2carrera\2cuatri\Algorítmica y matematicas\practicas\torres\Torres_de_Hanoi\obj\Debug\Torres_de_Hanoi.csprojAssemblyReference.cache
+C:\Users\Laura\Desktop\Universitat\2carrera\2cuatri\Algorítmica y matematicas\practicas\torres\Torres_de_Hanoi\obj\Debug\Torres_de_Hanoi.exe
+C:\Users\Laura\Desktop\Universitat\2carrera\2cuatri\Algorítmica y matematicas\practicas\torres\Torres_de_Hanoi\obj\Debug\Torres_de_Hanoi.pdb
