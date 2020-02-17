@@ -8,26 +8,27 @@ namespace Torres_de_Hanoi
 {
     class Pila
     {
+        public int NumeroDiscos { get; set; }
         public List<Disco> Elementos { get; set; }
 
         /* TODO: Implementar métodos */
         public Pila(List<Disco> elementos)
         {
             Elementos = elementos;
+            NumeroDiscos = elementos.Count();
         }
 
         public void push(Disco d)
         {
-            if (isEmpty() || d.Valor < Elementos[Elementos.Count-1].Valor)
-            {
-                Elementos.Add(d);
-            }
+            Elementos.Add(d);
+            NumeroDiscos++;
         }
 
         public Disco pop()
         {
             Disco discoSacado = Elementos[Elementos.Count - 1];
             Elementos.RemoveAt(Elementos.Count - 1);
+            NumeroDiscos--;
             return discoSacado;
         }                
 
